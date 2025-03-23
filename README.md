@@ -13,7 +13,7 @@ This is a basic Shopping Cart application built in Unity, where users can browse
 
 
 🛠️ Technologies Used:
-Unity (C#)
+**Unity (C#)**
 
 UI Canvas for displaying product details
 
